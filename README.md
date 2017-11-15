@@ -1,6 +1,6 @@
 # TêTê Moda Infantil
 
-Projeto de e-commerce desenvolvido para estudo de tecnologias web
+Projeto de uma loja virtual desenvolvido na discipliana de Tecnologias de Internet
 
 - HTLM / CSS / JavaScript
 - Bootstrap
