@@ -2,8 +2,7 @@
 
 Projeto de e-commerce desenvolvido para estudo de tecnologias web
 
-- HTLM / CSS
+- HTLM / CSS / JavaScript
 - Bootstrap
-- Angular 2
-- JavaScript
+- Angular 2/4
 - TypeScript
